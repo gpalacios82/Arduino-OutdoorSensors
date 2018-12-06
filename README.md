@@ -16,6 +16,8 @@ Temp:22.00ºC;Humidity:54.00%;Luminosity:98.00%;Voltaje:4.72V
 
 ![Foto Prototipo](FotoPrototipo.jpeg)
 
+![Esquema Prototipo](SchemaPrototype.png)
+
 #### Proximamente se incluirán
 * Datos de ruido
 * Datos de calidad del aire
