@@ -14,6 +14,8 @@ El formato de salida de los datos es:
 
 Temp:22.00ºC;Humidity:54.00%;Luminosity:98.00%;Voltaje:4.72V
 
+![Foto Prototipo](FotoPrototipo.jpeg)
+
 #### Proximamente se incluirán
 * Datos de ruido
 * Datos de calidad del aire
